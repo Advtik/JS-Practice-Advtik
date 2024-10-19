@@ -6,6 +6,7 @@ let array2=array1.slice(2,4);
 console.log(array2);
 console.log(array1);
 //splicing the array
+//yo
 let arraydup=array1.splice(2,4);
 console.log(arraydup);
 console.log(array1);
